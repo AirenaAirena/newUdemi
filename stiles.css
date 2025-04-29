@@ -49,3 +49,9 @@ body {
 .autor {
   font-style: italic;
 }
+.star-icon {
+  font-size: 30px;
+  cursor: pointer;
+  text-align: center;
+  color: yellow;
+}
